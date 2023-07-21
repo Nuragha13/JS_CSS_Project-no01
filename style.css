@@ -13,8 +13,8 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-color: #fafafa;
-    color: rgb(20, 21, 21);
+    background-color: #0f0f0f;
+    color: #fafafa;
 }
 
 .container {
